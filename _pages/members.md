@@ -1,16 +1,16 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: members
+permalink: /members/
+description: Current and previous lab members
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Current, Previous]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/members.md -->
+<div class="members">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}

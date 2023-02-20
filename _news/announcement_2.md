@@ -1,31 +1,21 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Prof. Qiuhua Huang was invited by PSERC to give a presentation titled "Convergence of AI, Physics, Computing, and Control for
+Intelligent Power System Control" 
+date: 2023-02-15 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
+<a href="https://documents.pserc.wisc.edu/documents/general_information/presentations/pserc_seminars/webinars_2023/Webinar_Slides_Huang_2_15_23.pdf">Slides</a>
+<a href="https://drive.google.com/file/d/1vNaroL1USg4jzWhlZSTCyxOXAiEfaPQG/view">Recording</a>
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Abstract: 
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+With increased uncertainties and rapidly changing operational conditions in power systems, existing stability control methods and
+operation paradigms have outstanding issues in terms of either speed, adaptiveness, or scalability. Recent years have seen notable
+progress in AI and learning-based control methods such as deep reinforcement learning (DRL) for solving challenging control and
+decision-making problems across many domains such as games, robotics and power systems. However, existing methods still have
+scalability, adaptability, and security issues. To address these challenges, an integrated framework based on the idea of Convergence of
+AI, Physics, Computing, and Control is developed. Based on this framework, scalable, physics-informed DRL algorithms and highperformance computational tools are developed to achieve efficient training of DRL agents for intelligent stability control for largescale power systems. The developed methods have been tested and demonstrated with large-scale power systems. Finally, this presentation will discuss the potential of this framework, when combined with new hardware and software platform, for transforming
+the grid operation and control from the control rooms to the grid edge.

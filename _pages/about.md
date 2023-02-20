@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The PIC-Lab is led by Dr. Qiuhua Huang, who is an Associate Professor in the Electrical Engineering Department at Colorado School of Mines. The websie is under contruction. Please visit his [homepage at Mines](https://electrical.mines.edu/project/huang-qiuhua/)
+The PIC-Lab is led by Dr. Qiuhua Huang, who is an Associate Professor in the Electrical Engineering Department at Colorado School of Mines. Please visit his [homepage at Mines](https://electrical.mines.edu/project/huang-qiuhua/)
 
