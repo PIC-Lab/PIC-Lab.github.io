@@ -6,8 +6,8 @@ date: 2023-02-15 16:11:00-0400
 inline: false
 ---
 
-<a href="https://documents.pserc.wisc.edu/documents/general_information/presentations/pserc_seminars/webinars_2023/Webinar_Slides_Huang_2_15_23.pdf">Slides</a>
-<a href="https://drive.google.com/file/d/1vNaroL1USg4jzWhlZSTCyxOXAiEfaPQG/view">Recording</a>
+Annoucement, slides and recordings can be found on the <a href="https://pserc.wisc.edu/webinars/"> PSERC Webinar website</a>
+
 ***
 
 Abstract: 
