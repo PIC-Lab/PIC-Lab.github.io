@@ -40,16 +40,27 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Power system modeling and simulation.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - T&D system modeling and co-simulation.
+        - EMT-phasor co-simulation.
+        - Data-driven and physics-based hybrid/co-simulation
+        - Advanced computing for power system simulation
+    - title: AI for power and energy systems
       items:
-        - Description 1.
-        - Description 2.
+        - Machine learning for power system operation and control
+        - AI-enhanced cybersecurity for DERs and the Grid
+        - Learning-based control for building and community
+        - Physics-informed machine learning for power system modeling, simulation and control
+        - Grid edge intelligence (together with edge computing, IOT)
+    - title: Electrification
+      items:
+        - EV forecasting (Individual and system level)
+        - Grid operation with high penetration of EVs
+        - EV2Grid
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, workouts, reading
