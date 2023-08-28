@@ -1,58 +1,21 @@
 ---
 layout: page
-title: members
-permalink: /members/
+title: Members
 description: Current and previous lab members
-nav: true
-nav_order: 2
-display_categories: [Current, Previous]
 horizontal: false
 ---
 
-<!-- pages/members.md -->
-<div class="members">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+## Current
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+### PhD students
+- Celina Wilkerson (started her PhD in 2021.08, joined PIC Lab in 2023.01) 
+- Patrick Salter (started his PhD in 2021.08, joined PIC Lab in 2023.01) 
+- Asmaa Romia (started her PhD in 2022.08, joined PIC Lab in 2023.01) 
+- Yi Liu (started his PhD and joined PIC Lab in 2023.08)
+
+### Undergraduate students
+- Owen Cornmesser (joined PIC Lab in 2023.08)
+- Maverick Savage (joined PIC Lab in 2023.08)
+
+## Alumni
+
