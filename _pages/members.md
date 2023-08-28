@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Members
+permalink: /members/
+title: members
 description: Current and previous lab members
 horizontal: false
+nav: true
+nav_order: 3
 ---
 
 ## Current
