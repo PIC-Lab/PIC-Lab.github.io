@@ -45,13 +45,13 @@ Enable and accelerate electricity-centric energy system digitalization and decar
 ## To Perspective Students
 Our lab has strong connnections with the industry, national labs (PNNL, NREL, ANL, ORNL, BNL) and other universities in U.S. and across the globe. Students in our lab will have unique research, collaboration and industry internship experiences, as well as special life experience while living in the Denver metropolitan area which is known for outdoors, art, culture, food, music and sports. 
 
-I strongly welcome students who have a master degrees in EE, CS, AI, IE/OR or relevant fields and are interested in the research areas/topics above to pursue their PhD degrees in our lab.  I also welcome outstanding undergradute students whose interests and research experiences are strongly aligned with the research areas above to join our lab as new PhD students. Please use [Perspective PhD student] in your email title. You are expected to be familar with our work through our publications and highlight how your previous research or project experiences are aligned with our research areas. **(Note: I usually hire 1-2 PhD students every year depending on the funding availability. If I hire you, I will guarentee your funding. I will read all your emails and reply to students who I see would be a good fit and invite them for a video meeting)** 
+I strongly welcome students who have a master degrees in EE, CS, AI, IE/OR or relevant fields and are interested in the research areas/topics above to pursue their PhD degrees in our lab.  I also welcome outstanding undergradute students whose interests and research experiences are strongly aligned with the research areas above to join our lab as new PhD students. Please use [Perspective PhD student] in your email title. You are expected to be familar with our work through our publications and highlight how your previous research or project experiences are aligned with our research areas. **(Note: I usually hire 1-2 PhD students every year depending on the funding availability. I will read all emails and reply to students who I see would be a good fit and invite them for a video meeting)** 
 
-For students who are interested in joining our lab as Master students with thesis, please note that I usually don't provide funding support to them. 
+For students who are interested in joining our lab as Master students with thesis, please note that I usually don't provide funding support to master students (priority is given to PhD students). 
 
 For post-doc positions, I will make annoucements here if I have. I currently don't have any post-doc position.
 
-For current students at Mines, if you like to do reserach in the lab or learn more about our work, please feel free to write an email to Dr. Huang or stop by his office. 
+For current students at Mines, if you like to do reserach in our lab or learn more about our work, please feel free to send me an email or stop by my office. 
 
 ## About me (and mentoring and research philosophy)
 
