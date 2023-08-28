@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-09 07:59:00-0400
+date: 2023-08-15 07:59:00-0400
 inline: true
 ---
 
-A collaborative (with ISU, ASU) proposal on "Adaptive T&D dynamic modeling and co-simulation" was selected for funding by PSERC. 
+Congrats Celina and Asmaa for completing their first PhD summer internships at PNNL and NREL, respectively. 

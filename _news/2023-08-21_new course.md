@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-09 07:59:00-0400
+date: 2023-08-22 
 inline: true
 ---
 
-A collaborative (with ISU, ASU) proposal on "Adaptive T&D dynamic modeling and co-simulation" was selected for funding by PSERC. 
+Dr. Huang started a new gradaute course "AI for power and renewable energy systems“.[Course Intro](https://mines0-my.sharepoint.com/:b:/g/personal/qiuhuahuang_mines_edu/EW5kejZNATBJnfpZUDYF49sBCzoiyy4uVzqxYTBo3B3wEw?e=BDV8nT)[Github repo](https://github.com/PIC-Lab/EENG598_AI4Power)

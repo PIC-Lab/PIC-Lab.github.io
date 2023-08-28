@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 The PIC-Lab is led by Dr. Qiuhua Huang, who is an Associate Professor in the Electrical Engineering Department at Colorado School of Mines. For more information of Dr. Huang, please visit his [homepage at Mines](https://electrical.mines.edu/project/huang-qiuhua/)
 
-## Vision
+## Our Vision
 Enable and accelerate electricity-centric energy system digitalization and decarbonization through **convergence** of physics, AI, computing and control.
 
 ## Research areas
