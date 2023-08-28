@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Prof. Qiuhua Huang was invited by PSERC to give a presentation titled "Convergence of AI, Physics, Computing, and Control for
-Intelligent Power System Control" 
+title: Prof. Qiuhua Huang was invited by PSERC to give a presentation titled "Convergence of AI, Physics, Computing, and Control for Intelligent Power System Control" 
 date: 2023-02-15 16:11:00-0400
 inline: false
 ---
