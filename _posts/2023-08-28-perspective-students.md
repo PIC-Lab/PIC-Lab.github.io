@@ -3,7 +3,7 @@ layout: post
 title:  To perspective students
 date:   2023-08-28 16:40:16
 description: Advices and notes for perspective students
-tags: formatting links
+tags: students hiring lab
 categories: lab
 ---
 
