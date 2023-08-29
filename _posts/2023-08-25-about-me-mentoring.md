@@ -3,7 +3,7 @@ layout: post
 title:  About me and mentoring philosophy
 date:   2023-08-25 16:40:16
 description: About my life experience and mentoring philosophy
-tags: lab mentoring me
+tags: lab mentoring personal
 categories: personal
 ---
 
