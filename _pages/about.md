@@ -41,9 +41,15 @@ Enable and accelerate electricity-centric energy system digitalization and decar
    * Grid operation with high penetration of EVs
    * Building/community electrification and building to grid
 
+## Recent Openning (for Summer or Fall 2024)
+We have an immediate open PhD position for students with strong background and interest in power system transmission and/or distribution modeling, dynamic simulation and stability. Good programming skill in Java, C++ or Python is desirable. Experience with open source or commercial simulation tools like PSAT, ANDES, PSS/E, PowerWorld, OpenDSS, GridLAB-D as well as machine learning tools like PyTorch or Tensorflow is a plus.  The student is expected to start in Summer or Fall 2024. This student will have many opportunities to directly work with national labs, EPRI, industry members and researchers from other universities. We usually consider students with a master degree for PhD application with exception for excellent undergraduate students with research experience and publication already. 
+
+The research experience at PIC Lab comes with added bonus to enjoy the wonders of Colorado and lots of outdoor activities for four seasons. 
+
+Please contact Prof. Huang if you are interested in this opportunity and use email title " PhD Application - Power System Dynamic Modeling"
 
 ## To Perspective Students
 Please read the "To perspective students" article in the [blog page](https://pic-lab.github.io/blog/)
 
-## About me (and mentoring and research philosophy)
+## About the PI (and mentoring and research philosophy)
 Please read the "About me" article in the [blog page](https://pic-lab.github.io/blog/)
