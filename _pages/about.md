@@ -6,7 +6,7 @@ subtitle: <a href='https://electrical.mines.edu/'>EE@Mines</a>.
 
 profile:
   align: right
-  image: pic_professor.png
+  image: pic_professor.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Brown Hall 314F</p>
