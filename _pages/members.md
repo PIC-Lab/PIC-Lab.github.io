@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /members/
-title: members
+title: Members
 description: Current and previous lab members
 horizontal: false
 nav: true
@@ -19,6 +19,7 @@ nav_order: 3
 - Asmaa Romia (joined PIC Lab in 2023.01). Thesis topic: Data-driven forecasting and control of DERs for emission-aware community-scale energy management
 - Emily Royal (joined PIC Lab in 2023.09, co-advised with [Prof. Paulo Cesar Tabares-Velasco](https://mechanical.mines.edu/project/tabares-velasco-paulo-cesar/)). Thesis topic: District energy system long-term hourly-resolution forecasting and planning
 - Yi Liu (joined PIC Lab in 2023.09). Thesis topic: TBD
+
 ### Master students
 - Owen Cornmesser (started his master thesis research in PIC Lab in 2024.01). Thesis topic: Adaptive distribution system dynamic modeling for transmission system dynamic contingency analysis
 
