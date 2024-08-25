@@ -41,12 +41,12 @@ Enable and accelerate electricity-centric energy system digitalization and decar
    * Grid operation with high penetration of EVs
    * Building/community electrification and building to grid
 
-## Recent Openning (for Summer or Fall 2024)
-We have an immediate open PhD position for students with strong background and interest in power system transmission and/or distribution modeling, dynamic simulation and stability. Good programming skill in Java, C++ or Python is desirable. Experience with open source or commercial simulation tools like PSAT, ANDES, PSS/E, PowerWorld, OpenDSS, GridLAB-D as well as machine learning tools like PyTorch or Tensorflow is a plus.  The student is expected to start in Summer or Fall 2024. This student will have many opportunities to directly work with national labs, EPRI, industry members and researchers from other universities. We usually consider students with a master degree for PhD application with exception for excellent undergraduate students with research experience and publication already. 
+## Recent Openning (for Spring or Fall 2025)
+We have an immediate open PhD position for students with strong background and/or interest in power system transient or dynamic transient stability simulation for power systems with high penetration of IBRs. Students with EE, Physics or scientfic computing backgorunds are  welcome. Good programming skill in  Python and/or C++/CUDA is desirable. Good knowledge and experience with at least one of the following simulation tools including PSCAD, EMTP, ATP, PSS/E, PSLF, PowerWorld, BPA, PSASP, DIgSILENT PowerFactory, PSAT, ANDES, InterPSS is required.  The student is expected to start in Spring or Fall 2025. This student will have many opportunities to directly work with national labs (e.g., NREL, PNNL, ANL), EPRI, industry members and researchers from other universities. We usually consider students with a master degree for PhD application with exception for excellent undergraduate students with research experience and publication already. 
 
 The research experience at PIC Lab comes with added bonus to enjoy the wonders of Colorado and lots of outdoor activities for four seasons. 
 
-Please contact Prof. Huang if you are interested in this opportunity and use email title " PhD Application - Power System Dynamic Modeling"
+Please contact Prof. Huang if you are interested in this opportunity and use email title " PhD Application - Power System Transient"
 
 ## To Perspective Students
 Please read the "To perspective students" article in the [blog page](https://pic-lab.github.io/blog/)
