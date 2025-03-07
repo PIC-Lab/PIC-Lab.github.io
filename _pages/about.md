@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 The PIC-Lab is led by Dr. Qiuhua Huang, who is an Associate Professor in the Electrical Engineering Department at Colorado School of Mines. For more information of Dr. Huang, please visit his [homepage at Mines](https://electrical.mines.edu/project/huang-qiuhua/)
 
 ## Our Vision
-Enable and accelerate electricity-centric energy system digitalization and decarbonization through **convergence** of physics, AI, computing and control.
+Accelerate electricity-centric energy system digitalization and enhance its efficiency, reliability and resilience through **convergence** of physics, AI, computing and control.
 
 ## Research Areas
 
@@ -36,17 +36,13 @@ Enable and accelerate electricity-centric energy system digitalization and decar
    * Learning-based control for building and community
    * Physics-informed machine learning for power system modeling, simulation and control
    * Grid edge intelligence (together with edge computing, IOT)
-3. Electrification
+3. Power System Resilience and Reliability
+   * Wildfire-power system nexus modeling and simulation
+   * Weather-dependent power system modeling and operation
+4. Electrification
    * EV forecasting (Individual and system level)
    * Grid operation with high penetration of EVs
    * Building/community electrification and building to grid
-
-## Recent Openning (for Spring or Fall 2025)
-We have an immediate open PhD position for students with strong background and/or interest in power system transient or dynamic transient stability simulation for power systems with high penetration of IBRs. Students with EE, Physics or scientfic computing backgorunds are  welcome. Good programming skill in  Python and/or C++/CUDA is desirable. Good knowledge and experience with power system simulation tools such as PSCAD, EMTP, ATP, PSS/E, PSLF, PowerWorld, BPA, PSASP, DIgSILENT PowerFactory, PSAT, ANDES, InterPSS is required.  The student is expected to start in Spring or Fall 2025. This student will have many opportunities to directly work with national labs (e.g., NREL, PNNL, ANL), EPRI, industry members and researchers from other universities. We usually consider students with a master degree for PhD application with exception for excellent undergraduate students with research experience and publication already. 
-
-The research experience at PIC Lab comes with added bonus to enjoy the wonders of Colorado and lots of outdoor activities for four seasons. 
-
-Please contact Prof. Huang if you are interested in this opportunity and use email title " PhD Application - Power System Transient"
 
 ## To Perspective Students
 Please read the "To perspective students" article in the [blog page](https://pic-lab.github.io/blog/)
