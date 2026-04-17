@@ -8,10 +8,10 @@ nav_order: 5
 ---
 
 ## Undergraduate 
-- EENG 475 - Interconnetion of Renewable Energy (Spring 2023)
+- EENG 475 - Interconnetion of Renewable Energy (Spring 2023, Spring 2025, Spring 2026)
 
 ## Graduate 
-- EENG 587 "Power system protection and relaying“. (Fall 2024) [Course Intro](https://mines0-my.sharepoint.com/:b:/g/personal/qiuhuahuang_mines_edu/Ef6Q2sPKJgRHsJx7H5W_ct4Bz4bXY81RcgwR8wJQ9K3hTw?e=DRzig1)
-- EENG 598 "AI for power and renewable energy systems“. (Fall 2023)
+- EENG 587 "Power system protection and relaying“. (Fall 2024, Fall 2026) [Course Intro](https://mines0-my.sharepoint.com/:b:/g/personal/qiuhuahuang_mines_edu/Ef6Q2sPKJgRHsJx7H5W_ct4Bz4bXY81RcgwR8wJQ9K3hTw?e=DRzig1)
+- EENG 598 "AI for power and renewable energy systems“. (Fall 2023, Fall 2024, Fall 2026)
 [Course Intro](https://mines0-my.sharepoint.com/:b:/g/personal/qiuhuahuang_mines_edu/EW5kejZNATBJnfpZUDYF49sBCzoiyy4uVzqxYTBo3B3wEw?e=BDV8nT)
 [Github repo](https://github.com/PIC-Lab/EENG598_AI4Power)
